@@ -1,16 +1,99 @@
-## Hi there 👋
+<!-- Profile README for shmohamm06 -->
 
-<!--
-**shmohamm06/shmohamm06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I'm Shahria 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Student+Developer+at+42+Abu+Dhabi;Building+games%2C+servers%2C+and+robots;Always+learning+%F0%9F%92%AA;Loves+a+good+hackathon" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects I’m Proud Of
+
+<table>
+  <tr>
+    <td><b>🕹️ cub3d</b></td>
+    <td>
+      Wolfenstein 3D-style engine with raycasting.<br>
+      <i>Textured walls, interactive controls, real-time rendering.</i>
+    </td>
+  </tr>
+  <tr>
+    <td><b>💬 ft_irc</b></td>
+    <td>
+      IRC server in C++ — multi-client, channels, real-time messaging.<br>
+      <i>Dives into network & protocol programming!</i>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🐚 minishell</b></td>
+    <td>
+      Bash-like shell.<br>
+      <i>Supports pipes, redirections, environment management.</i>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🏓 ft_transcendence</b></td>
+    <td>
+      Full-stack gaming platform: Pong & Tic Tac Toe with real-time WebSockets.<br>
+      <i>JWT auth, user profiles, match stats. Powered by Node.js, PostgreSQL, Docker.</i>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Playground
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/3D%20Printing-FFB300?style=flat&logo=3d&logoColor=black"/>
+</p>
+
+---
+
+### 🏆 Highlights & Fun
+
+- 🚨 **GITEX '23 Exhibitor:** Showcased a custom 3D-printed robot
+- 🕹️ **Brackeys GameJam 2024:** UI/UX design, game dev marathoner
+- 🤖 **42 Abu Dhabi Robot Project:** Built in 50 days for GITEX
+- 🥇 **Hackathon regular:** Loves the energy of collaborative coding
+
+---
+
+### 🌟 Some Fun Facts
+
+- 🎮 I can build a game engine from scratch before breakfast (okay, maybe by lunch)
+- 🦾 Passionate about mechatronics, game jams, and teaching others what I learn
+- 🌍 Fluent in four languages, and always coding in one more
+- 🛸 If it’s quirky tech, robotics, or multiplayer games — count me in!
+
+---
+
+### 📈 My GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shmohamm06&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=shmohamm06&theme=github-dark&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shmohamm06&bg_color=1a1b27&color=6e8af7&line=38bdae&point=6e8af7&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
+<!-- Optionally add a visitor counter badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shmohamm06&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
+---
+
+<p align="center"><b>"Building the future, one project at a time."</b> 🚀</p>
