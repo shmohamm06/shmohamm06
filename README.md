@@ -5,21 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Student+Developer+at+42+Abu+Dhabi;Building+games%2C+servers%2C+and+robots;Always+learning+%F0%9F%92%AA;Loves+a+good+hackathon" alt="Typing SVG" />
 </p>
 
----
-
-### 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/shahria-shadman-mohammed-046b55350?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs5JXFsA7QMGHKJ76xbw66g%3D%3D" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/mohd_shahriar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://sites.google.com/view/shah-06" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
-  </a>
-</div>
 
 ---
 
@@ -115,6 +100,20 @@
 </p>
 
 ---
+
+### 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shahria-shadman-mohammed-046b55350?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs5JXFsA7QMGHKJ76xbw66g%3D%3D" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/mohd_shahriar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://sites.google.com/view/shah-06" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
+  </a>
+</div>
 
 <!-- Optionally add a visitor counter badge -->
 <p align="center">
