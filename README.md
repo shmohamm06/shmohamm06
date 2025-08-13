@@ -1,6 +1,6 @@
 <!-- Profile README for shmohamm06 -->
 
-<h1 align="center">Hey, I'm Shahria 👋</h1>
+<h1 align="center">Hey, I'm Shahriar 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Student+Developer+at+42+Abu+Dhabi;Building+games%2C+servers%2C+and+robots;Always+learning+%F0%9F%92%AA;Loves+a+good+hackathon" alt="Typing SVG" />
 </p>
