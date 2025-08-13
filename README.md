@@ -26,10 +26,11 @@
 ### 🧑‍💻 About Me
 
 <p align="left">
-  I’m Shahriar, a passionate developer currently studying at 42 Abu Dhabi, where I’m immersed in an intensive peer-driven coding environment. I have a strong drive to build software that not only functions but truly makes an impact. Whether it's through games, servers, or robots, I love working on projects that challenge me and help me grow as a developer.
+  I’m Shahriar, a passionate developer currently studying at 42 Abu Dhabi, where I’m immersed in an intensive peer-driven coding environment. I’ve completed the common core of 42, submitting the <b>ft_transcendence</b> project alongside my amazing teammates. I have a strong drive to build software that not only functions but also truly makes a meaningful impact. Whether it's through games, servers, or robots, I love working on projects that challenge me and help me grow as a developer.
   <br><br>
-  In my free time, you’ll probably find me hacking away at code, participating in game jams, or tinkering with new technologies like 3D printing and mechatronics. I’ve also had experience managing large-scale events like GITEX '23, and I enjoy the blend of creativity and technical problem-solving in those settings. I believe that technology is a powerful tool for positive change, and I’m always looking for opportunities to collaborate on projects that do just that!
+  Currently, I’m focusing on entering the world of cybersecurity, aiming to delve deeper into its complexities and eventually master it through the specialized curriculum at 42 Abu Dhabi. In my free time, you’ll probably find me hacking away at code, participating in game jams, or tinkering with new technologies like 3D printing and mechatronics. I’ve also had experience managing large-scale events like GITEX '23, and I enjoy the blend of creativity and technical problem-solving in those settings. I believe that technology is a powerful tool for positive change, and I’m always looking for opportunities to collaborate on projects that do just that!
 </p>
+
 
 ---
 
