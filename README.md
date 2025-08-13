@@ -16,7 +16,20 @@
   <a href="https://www.instagram.com/mohd_shahriar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+  <a href="https://sites.google.com/view/shah-06" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
+  </a>
 </div>
+
+---
+
+### 🧑‍💻 About Me
+
+<p align="left">
+  I’m Shahriar, a passionate developer currently studying at 42 Abu Dhabi, where I’m immersed in an intensive peer-driven coding environment. I have a strong drive to build software that not only functions but truly makes an impact. Whether it's through games, servers, or robots, I love working on projects that challenge me and help me grow as a developer.
+  <br><br>
+  In my free time, you’ll probably find me hacking away at code, participating in game jams, or tinkering with new technologies like 3D printing and mechatronics. I’ve also had experience managing large-scale events like GITEX '23, and I enjoy the blend of creativity and technical problem-solving in those settings. I believe that technology is a powerful tool for positive change, and I’m always looking for opportunities to collaborate on projects that do just that!
+</p>
 
 ---
 
