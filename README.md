@@ -7,6 +7,19 @@
 
 ---
 
+### 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shahria-shadman-mohammed-046b55350?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs5JXFsA7QMGHKJ76xbw66g%3D%3D" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/mohd_shahriar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
+---
+
 ### 🚀 Projects I’m Proud Of
 
 <table>
